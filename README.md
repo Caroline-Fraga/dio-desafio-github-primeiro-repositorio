@@ -6,4 +6,3 @@ Desafio de Projeto sobre Git/GitHub
 
 [Receitas produtos de limpeza caseiros](https://www.cleanipedia.com/br/dentro-de-casa/como-fazer-produto-de-limpeza-caseiro-veja-receitas.html)
 
-[Receitas para organização](https://www.cleanipedia.com/br/familia/como-tirar-pelo-de-gato-da-roupa.html)
